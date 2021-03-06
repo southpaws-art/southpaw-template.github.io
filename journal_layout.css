@@ -1,0 +1,52 @@
+body {
+    margin: 0 10%;
+    background-image: url(images/background.jpg);
+}
+#body{
+	border: 10px white solid;
+	background-color: white;
+}
+.introduction{
+	
+	background-color: #A8F0F0;
+	text-align: right;
+	padding: 5px;
+	margin: 10px;
+}
+.container{
+	clear:both;
+	overflow: hidden;
+	margin: 10px;
+}
+.left-bar{
+	border: 4px #3B8588 solid;
+	float: left;
+	margin: 10px 0;
+	width: 15%;
+	padding: 5px;
+	background-color: #39BBC0;
+}
+.right-bar{
+	float:right;
+	width:83%;
+}
+.text-frame{
+	font-size: 14px;
+}
+.date{
+	border-bottom: 2px blue dashed;
+
+}
+.content{
+	border: 4px #C2E9E9 solid;
+	background-color: #E8FBFB;
+	padding: 5px;
+	margin: 10px;
+}
+.image{
+	float:right;
+}
+.inside-content {
+    clear: right;
+    overflow: hidden;
+}
